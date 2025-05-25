@@ -1,3 +1,6 @@
+**REPOSITORY LINK** 
+https://github.com/manoj-472/HR---Dashboard
+
 # HR Performance Dashboard
 
 A Next.js-based dashboard for HR managers to track employee performance, manage bookmarks, and view analytics.
