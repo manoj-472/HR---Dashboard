@@ -1,9 +1,9 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { useParams } from 'next/navigation';
-import Tabs from '../../components/Tabs';
-import RatingStars from '../../components/RatingStars';
-import { fetchUserById } from '../../lib/api';
+import Tabs from '../../../components/Tabs';
+import RatingStars from '../../../components/RatingStars';
+import { fetchUserById } from '../../../lib/api';
 
 export default function EmployeeDetails() {
   const { id } = useParams();
