@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Card from '../components/Card';
 import SearchBar from '../components/SearchBar';
-import FilterDropdown from '../components/filterDropdown';
+import FilterDropdown from '../components/FilterDropdown';
 import useSearch from '../hooks/useSearch';
 import useBookmarks from '../hooks/useBookmarks';
 import { fetchUsers } from '../lib/api';
