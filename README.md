@@ -39,5 +39,5 @@ A Next.js-based dashboard for HR managers to track employee performance, manage 
 
 ## Notes
 - Uses `https://dummyjson.com/users` for mock data.
-- Responsive design for mobile and desktop.
+- Responsive design for desktop.
 - Pagination implemented with Previous/Next buttons.
