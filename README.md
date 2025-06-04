@@ -1,6 +1,7 @@
 **REPOSITORY LINK** 
 https://github.com/manoj-472/HR---Dashboard
-
+**DEPLOYMENT LINK** 
+https://hr-dashboard-76yx.vercel.app/
 # HR Performance Dashboard
 
 A Next.js-based dashboard for HR managers to track employee performance, manage bookmarks, and view analytics.
